@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "432732741996",
+    "firebase_url": "https://santiagodiazmuseo.firebaseio.com",
+    "project_id": "santiagodiazmuseo",
+    "storage_bucket": "santiagodiazmuseo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432732741996:android:8891f0e5dbd8645f",
+        "android_client_info": {
+          "package_name": "com.example.bobrik.santiagodiazmuseo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432732741996-d8k7omv6r8jl5t16tptur00n2328h875.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bobrik.santiagodiazmuseo",
+            "certificate_hash": "2c388be2e7a26bf3f5f5153f333cbdacf10920ee"
+          }
+        },
+        {
+          "client_id": "432732741996-g6brcua1qcoj0qkpm44lv66q6iqed76d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAej0BOpnTtT_lnWh6vZWiFIyN2hQ_WGBY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432732741996-g6brcua1qcoj0qkpm44lv66q6iqed76d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
